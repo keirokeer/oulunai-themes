@@ -1,0 +1,11 @@
+{
+  "themes": [
+    {
+      "id": "sage-graphite",
+      "name": "Sage Graphite",
+      "author": "keirokeer",
+      "version": "1.0.0",
+      "file": "themes/sage-graphite.yaml"
+    }
+  ]
+}
